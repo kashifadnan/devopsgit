@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1701070477,,"wq"
+|2,0,1701073929,,"wq"
 :q
 |2,0,1701070470,,"q"
 :w ~/Desktop/Zohan.txt
@@ -34,41 +34,112 @@ $
 # Registers:
 
 # File marks:
-'0  3  10  ~/zohan.txt
-|4,48,3,10,1701070477,"~/zohan.txt"
-'1  10  0  ~/zohan.txt
-|4,49,10,0,1701069670,"~/zohan.txt"
-'2  8  0  ~/zohan.txt
-|4,50,8,0,1701069670,"~/zohan.txt"
-'3  10  0  ~/zohan.txt
-|4,51,10,0,1701069562,"~/zohan.txt"
+'0  4  0  ~/testfile.txt
+|4,48,4,0,1701073929,"~/testfile.txt"
+'1  6  11  ~/zohan.txt
+|4,49,6,11,1701071357,"~/zohan.txt"
+'2  3  10  ~/zohan.txt
+|4,50,3,10,1701070477,"~/zohan.txt"
+'3  3  10  ~/zohan.txt
+|4,51,3,10,1701070477,"~/zohan.txt"
+'4  13  0  ~/zohan.txt
+|4,52,13,0,1701069670,"~/zohan.txt"
+'5  11  0  ~/zohan.txt
+|4,53,11,0,1701069670,"~/zohan.txt"
+'6  10  0  ~/zohan.txt
+|4,54,10,0,1701069670,"~/zohan.txt"
+'7  8  0  ~/zohan.txt
+|4,55,8,0,1701069670,"~/zohan.txt"
+'8  13  0  ~/zohan.txt
+|4,56,13,0,1701069562,"~/zohan.txt"
+'9  10  0  ~/zohan.txt
+|4,57,10,0,1701069562,"~/zohan.txt"
 
 # Jumplist (newest first):
+-'  4  0  ~/testfile.txt
+|4,39,4,0,1701073929,"~/testfile.txt"
+-'  1  0  ~/testfile.txt
+|4,39,1,0,1701073890,"~/testfile.txt"
+-'  6  11  ~/zohan.txt
+|4,39,6,11,1701071357,"~/zohan.txt"
+-'  6  11  ~/zohan.txt
+|4,39,6,11,1701071357,"~/zohan.txt"
+-'  3  10  ~/zohan.txt
+|4,39,3,10,1701071320,"~/zohan.txt"
+-'  3  10  ~/zohan.txt
+|4,39,3,10,1701071320,"~/zohan.txt"
+-'  3  10  ~/zohan.txt
+|4,39,3,10,1701070477,"~/zohan.txt"
 -'  3  10  ~/zohan.txt
 |4,39,3,10,1701070477,"~/zohan.txt"
 -'  1  0  ~/zohan.txt
 |4,39,1,0,1701070434,"~/zohan.txt"
+-'  1  0  ~/zohan.txt
+|4,39,1,0,1701070434,"~/zohan.txt"
+-'  1  0  ~/zohan.txt
+|4,39,1,0,1701070434,"~/zohan.txt"
+-'  1  0  ~/zohan.txt
+|4,39,1,0,1701070434,"~/zohan.txt"
+-'  13  0  ~/zohan.txt
+|4,39,13,0,1701069670,"~/zohan.txt"
+-'  11  0  ~/zohan.txt
+|4,39,11,0,1701069670,"~/zohan.txt"
+-'  10  0  ~/zohan.txt
+|4,39,10,0,1701069670,"~/zohan.txt"
+-'  8  0  ~/zohan.txt
+|4,39,8,0,1701069670,"~/zohan.txt"
+-'  13  0  ~/zohan.txt
+|4,39,13,0,1701069670,"~/zohan.txt"
+-'  11  0  ~/zohan.txt
+|4,39,11,0,1701069670,"~/zohan.txt"
 -'  10  0  ~/zohan.txt
 |4,39,10,0,1701069670,"~/zohan.txt"
 -'  8  0  ~/zohan.txt
 |4,39,8,0,1701069670,"~/zohan.txt"
 -'  8  0  ~/zohan.txt
 |4,39,8,0,1701069562,"~/zohan.txt"
+-'  8  0  ~/zohan.txt
+|4,39,8,0,1701069562,"~/zohan.txt"
+-'  14  1  ~/zohan.txt
+|4,39,14,1,1701069499,"~/zohan.txt"
+-'  12  1  ~/zohan.txt
+|4,39,12,1,1701069499,"~/zohan.txt"
+-'  11  1  ~/zohan.txt
+|4,39,11,1,1701069499,"~/zohan.txt"
+-'  9  1  ~/zohan.txt
+|4,39,9,1,1701069499,"~/zohan.txt"
+-'  14  1  ~/zohan.txt
+|4,39,14,1,1701069499,"~/zohan.txt"
+-'  12  1  ~/zohan.txt
+|4,39,12,1,1701069499,"~/zohan.txt"
 -'  11  1  ~/zohan.txt
 |4,39,11,1,1701069499,"~/zohan.txt"
 -'  9  1  ~/zohan.txt
 |4,39,9,1,1701069499,"~/zohan.txt"
 -'  9  1  ~/zohan.txt
 |4,39,9,1,1701069249,"~/zohan.txt"
+-'  9  1  ~/zohan.txt
+|4,39,9,1,1701069249,"~/zohan.txt"
+-'  1  0  ~/zohan.txt
+|4,39,1,0,1701069233,"~/zohan.txt"
 -'  1  0  ~/zohan.txt
 |4,39,1,0,1701069233,"~/zohan.txt"
 
 # History of marks within files (newest to oldest):
 
+> ~/testfile.txt
+	*	1701073925	0
+	"	4	0
+	^	4	0
+	.	3	20
+	+	3	20
+
 > ~/zohan.txt
-	*	1701070475	0
-	"	3	10
-	^	3	11
-	.	3	10
-	+	11	0
+	*	1701071354	0
+	"	6	11
+	^	6	12
+	.	6	11
+	+	14	0
 	+	3	10
+	+	5	19
+	+	6	11
